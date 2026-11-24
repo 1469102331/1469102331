@@ -27,7 +27,7 @@ I work on **hyperspectral imaging** — fusing a low-resolution hyperspectral im
 |---|---|---|---|---|
 | **SINet** — Spatial Invertible Network With Mamba-Convolution for Hyperspectral Image Fusion | IEEE JSTSP, vol. 19, no. 8, Dec. 2025 | Published | [![Repo](https://img.shields.io/badge/GitHub-SINet-181717?logo=github)](https://github.com/Guoshuo-cv/SINet) | [PDF](https://github.com/Guoshuo-cv/SINet/blob/main/SINet.pdf) · [DOI](https://doi.org/10.1109/JSTSP.2025.3596518) |
 | **SSDAN** — S²-Differential Feature Awareness Network for Hyperspectral Image Fusion | IEEE TGRS, vol. 64, Art. no. 5507410, 2026 | Published | [![Repo](https://img.shields.io/badge/GitHub-SSDAN-181717?logo=github)](https://github.com/MSFLabX/SSDAN) | [DOI](https://doi.org/10.1109/TGRS.2026.3671284) |
-| **SCDRNet** — Learning Spectral Consistency and Detail Refinement for Hyperspectral Image Fusion | Accepted, to appear | Accepted | [![Repo](https://img.shields.io/badge/GitHub-SCDRNet-181717?logo=github)](https://github.com/Guoshuo-cv/SCDRNet) | [PDF](https://github.com/Guoshuo-cv/SCDRNet/blob/main/SCDRNet.pdf) |
+| **SCDRNet** — Learning Spectral Consistency and Detail Refinement for Hyperspectral Image Fusion | IEEE TIP, accepted (to appear) | Accepted | [![Repo](https://img.shields.io/badge/GitHub-SCDRNet-181717?logo=github)](https://github.com/Guoshuo-cv/SCDRNet) | Online version pending |
 
 *One further paper is accepted and awaiting its online version; it will be listed here as soon as the final version appears.*
 
@@ -36,7 +36,7 @@ I work on **hyperspectral imaging** — fusing a low-resolution hyperspectral im
 ## 💻 Highlighted Repositories
 
 **[SCDRNet](https://github.com/Guoshuo-cv/SCDRNet)** · `PyTorch` `hyperspectral-image-fusion` `wavelet` `attention`
-Two-stage spectral-consistency + detail-refinement network, with full training / testing / evaluation scripts and the paper PDF.
+Two-stage spectral-consistency + detail-refinement network, with full training / testing / evaluation scripts. (Paper accepted by IEEE TIP; full text will be linked after the online version appears.)
 
 **[SSDAN](https://github.com/MSFLabX/SSDAN)** · `PyTorch` `differential-feature` `frequency-domain` `image-fusion`
 S²-differential feature awareness network: spatial–frequency fusion network with a dual-branch design plus a differential S² complementarity module.
@@ -50,7 +50,7 @@ Both repositories share the same evaluation protocol: CAVE / Harvard / KAIST wit
 
 ## 🎓 Education
 
-- **M.Sc. in Computer Technology** — Hunan Normal University, Changsha, China *(current)*
+- **Master's (professional degree) in Electronic Information — Computer Technology (085404)** — Hunan Normal University, Changsha, China *(in progress)*
 - **B.Sc.** — Nanjing Agricultural University; thesis on *Chinese herbal medicine image recognition*
 
 ---
@@ -78,6 +78,6 @@ Thanks to all the contributors.
 <details>
 <summary>中文简介</summary>
 
-Shuo Guo，湖南师范大学计算机技术硕士研究生，研究方向为高光谱与多光谱图像融合、光谱重建与空间细节增强。关注谱一致性约束下的重建建模、隐系数估计、非线性光谱映射、小波域细节增强以及 Mamba/Transformer 混合结构在高光谱融合中的应用。已发表 IEEE JSTSP（SINet）与 IEEE TGRS（SSDAN）各一篇，另有 2 篇已录用待在线出版；代表性代码均已开源（GitHub: Guoshuo-cv）。
+Shuo Guo，湖南师范大学电子信息（计算机技术，085404）专业学位硕士研究生，研究方向为高光谱与多光谱图像融合、光谱重建与空间细节增强。关注谱一致性约束下的重建建模、隐系数估计、非线性光谱映射、小波域细节增强以及 Mamba/Transformer 混合结构在高光谱融合中的应用。已发表 IEEE JSTSP（SINet）与 IEEE TGRS（SSDAN）各一篇，另有 2 篇已录用待在线出版；代表性代码均已开源（GitHub: Guoshuo-cv）。
 
 </details>
